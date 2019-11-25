@@ -19,8 +19,13 @@ Syntax:
 ```
 DATEDIFF(interval, date1, date2)
 ```
-
+Example:
+```
+SELECT DATEDIFF(day, '2011/08/26', '2011/08/25') AS DateDiff;
+```
+The answer is '-1'.
 
 
 References:
-https://www.brentozar.com/archive/2018/04/how-to-delete-just-some-rows-from-a-really-big-table/
+https://www.brentozar.com/archive/2018/04/how-to-delete-just-some-rows-from-a-really-big-table/  
+https://www.w3schools.com/sql/func_sqlserver_datediff.asp
