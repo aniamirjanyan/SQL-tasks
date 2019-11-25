@@ -35,3 +35,10 @@ https://stackoverflow.com/questions/1588722/delete-items-older-than-a-day-sql-se
 
 
 **Option 2**
+It is possible to automate the task using SQL Server Agent.
+
+
+
+
+References:   
+https://docs.microsoft.com/en-us/sql/ssms/agent/sql-server-agent?redirectedfrom=MSDN&view=sql-server-ver15
