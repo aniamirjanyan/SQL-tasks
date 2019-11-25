@@ -2,7 +2,7 @@
 
 **Option 1**
 
-Create a view from top 1000 rows which are ordered by date. 
+Create a view from top 1000 (or more) rows which are ordered by date. 
 ```
 CREATE VIEW db.view AS
     SELECT TOP 1000 *
