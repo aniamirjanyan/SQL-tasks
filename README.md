@@ -34,11 +34,12 @@ https://www.w3schools.com/sql/func_sqlserver_datediff.asp
 https://stackoverflow.com/questions/1588722/delete-items-older-than-a-day-sql-server
 
 
-**Option 2**
+**Option 2**  
 It is possible to automate the task using SQL Server Agent.
 
 
 
 
 References:   
-https://docs.microsoft.com/en-us/sql/ssms/agent/sql-server-agent?redirectedfrom=MSDN&view=sql-server-ver15
+https://docs.microsoft.com/en-us/sql/ssms/agent/sql-server-agent?redirectedfrom=MSDN&view=sql-server-ver15  
+https://docs.microsoft.com/en-us/sql/ssms/agent/create-a-transact-sql-job-step?view=sql-server-ver15  
